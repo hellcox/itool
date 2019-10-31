@@ -4,7 +4,7 @@
 namespace hellcox\itool;
 
 
-class ITest
+class Test
 {
     public function test(){
         echo 'itest test';

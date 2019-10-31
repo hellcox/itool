@@ -2,7 +2,7 @@
 
 namespace hellcox\itool;
 
-class ITool
+class Tool
 {
     public static function test(){
         echo 'itool test';
