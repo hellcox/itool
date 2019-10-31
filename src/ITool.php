@@ -7,5 +7,4 @@ class ITool
     public static function test(){
         echo 'itool test';
     }
-
 }
