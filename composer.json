@@ -1,0 +1,13 @@
+{
+    "name": "hellcox/itool",
+    "description": "my tools",
+    "type": "library",
+    "authors": [
+        {
+            "name": "hellcox",
+            "email": "hellcox@163.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
